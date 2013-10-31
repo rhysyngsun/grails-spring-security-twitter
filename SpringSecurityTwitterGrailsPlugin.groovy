@@ -1,8 +1,8 @@
 import com.the6hours.grails.springsecurity.twitter.DefaultTwitterAuthDao
 import com.the6hours.grails.springsecurity.twitter.TwitterAuthProvider
 import com.the6hours.grails.springsecurity.twitter.TwitterAuthFilter
-import org.codehaus.groovy.grails.plugins.springsecurity.SecurityFilterPosition
-import org.codehaus.groovy.grails.plugins.springsecurity.SpringSecurityUtils
+import grails.plugin.springsecurity.SecurityFilterPosition
+import grails.plugin.springsecurity.SpringSecurityUtils
 import org.springframework.security.web.authentication.SimpleUrlAuthenticationSuccessHandler
 
 /* Copyright 2006-2010 the original author or authors.
